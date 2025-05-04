@@ -1,3 +1,4 @@
+//::::  Create a function with parameters and an optional literal type. :::::
 function printUserInfo(
   name: string,
   age: number,

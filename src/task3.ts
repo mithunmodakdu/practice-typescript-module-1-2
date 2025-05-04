@@ -1,3 +1,4 @@
+//::::  Define a structured Person object using Type Aliases ::::
 type Person = {
   name: string;
   address: string; 
