@@ -9,8 +9,9 @@ function printUserInfo(
   if(role){
     console.log(`Role is ${role}`)
   }else{
-    console.log('Role is specified.')
+    console.log('Role is not specified.')
   }
 }
 
-printUserInfo('Mithun', 35, 'admin')
+// printUserInfo('Mithun', 35, 'admin')
+printUserInfo('Mithun', 35)
